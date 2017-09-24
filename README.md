@@ -32,15 +32,21 @@ http://samza.apache.org/
 Apache Samza is a distributed stream processing framework. It uses Apache Kafka for messaging, and Apache Hadoop YARN to provide fault tolerance, processor isolation, security, and resource management.
 
 
-Ambari™:
+[Ambari™](http://incubator.apache.org/ambari/):
 
 A web-based tool for provisioning, managing, and monitoring Apache Hadoop clusters which includes support for Hadoop HDFS, Hadoop MapReduce, Hive, HCatalog, HBase, ZooKeeper, Oozie, Pig and Sqoop. Ambari also provides a dashboard for viewing cluster health such as heatmaps and ability to view MapReduce, Pig and Hive applications visually alongwith features to diagnose their performance characteristics in a user-friendly manner.
 
-Avro™: A data serialization system.
+[Avro™](http://avro.apache.org/):
 
-Cassandra™: A scalable multi-master database with no single points of failure.
+A data serialization system.
 
-Chukwa™: A data collection system for managing large distributed systems.
+[Cassandra™](http://cassandra.apache.org/):
+
+A scalable multi-master database with no single points of failure.
+
+[Chukwa™](http://incubator.apache.org/chukwa/):
+
+A data collection system for managing large distributed systems.
 
 HBase™: 
 
