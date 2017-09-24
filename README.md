@@ -18,7 +18,9 @@ http://kafka.apache.org/
 
 Apache Kafka™ is a distributed streaming platform
 
-https://spark.apache.org/
+[Spark™](https://spark.apache.org/): 
+
+A fast and general compute engine for Hadoop data. Spark provides a simple and expressive programming model that supports a wide range of applications, including ETL, machine learning, stream processing, and graph computation.
 
 
 http://storm.apache.org/
@@ -56,9 +58,6 @@ Pig™:
 
 A high-level data-flow language and execution framework for parallel computation.
 
-Spark™: 
-
-A fast and general compute engine for Hadoop data. Spark provides a simple and expressive programming model that supports a wide range of applications, including ETL, machine learning, stream processing, and graph computation.
 Tez™: 
 
 A generalized data-flow programming framework, built on Hadoop YARN, which provides a powerful and flexible engine to execute an arbitrary DAG of tasks to process data for both batch and interactive use-cases. Tez is being adopted by Hive™, Pig™ and other frameworks in the Hadoop ecosystem, and also by other commercial software (e.g. ETL tools), to replace Hadoop™ MapReduce as the underlying execution engine.
@@ -71,4 +70,4 @@ https://hub.docker.com/r/sequenceiq/hadoop-docker/
 ## Blog's
 [How-to: Install a Virtual Apache Hadoop Cluster with Vagrant and Cloudera Manager](https://blog.cloudera.com/blog/2014/06/how-to-install-a-virtual-apache-hadoop-cluster-with-vagrant-and-cloudera-manager/)
 
-[123](abd)
+[Descrption](link)
